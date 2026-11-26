@@ -11,8 +11,9 @@ documentation for interventional neuroradiology, as its first engineer. Our
 software is now in use at Charité and University Hospital Cologne.
 
 If you see [@caspars-agent](https://github.com/caspars-agent) in my commits:
-that's my homegrown agent setup, with a bolted-on <!--lines-->[1,829](https://github.com/cmuenzin/cmuenzin/commits/main/README.md)<!--/lines-->-line feedback log
-on how to work with me. Some days it's the best idea I've ever had, other
+that's my homegrown agent setup. One of its smaller parts is a
+<!--lines-->[1,829](https://github.com/cmuenzin/cmuenzin/commits/main/README.md)<!--/lines-->-line feedback log on how to work with me.
+Some days it's the best idea I've ever had, other
 days I'm drowning in slop and drift. Mostly the first, but I guess I'm doomed
 to stay a slop reviewer until some lab actually ships AGI after its nth
 announcement.
