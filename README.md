@@ -12,7 +12,7 @@ software is now in use at Charité and University Hospital Cologne.
 
 If you see [@caspars-agent](https://github.com/caspars-agent) in my commits:
 that's my homegrown agent setup, with an ever-growing feedback log on how to
-work with me (<!--lines-->[1,821](https://github.com/cmuenzin/cmuenzin/commits/main/README.md)<!--/lines--> lines and counting). Some days
+work with me (<!--lines-->[1,829](https://github.com/cmuenzin/cmuenzin/commits/main/README.md)<!--/lines--> lines and counting). Some days
 it's the best idea I've ever had, other days I'm drowning in slop and drift.
 Mostly the first, but I guess I'm doomed to stay a slop reviewer until some
 lab actually develops AGI after its nth announcement.
